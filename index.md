@@ -6,3 +6,4 @@
 * Larry Plotter y El Malware de Fuego
 * Larry Plotter y La Orden de Unix
 * Larry Plotter y el Misterio del Hacker
+* Larry Plotter y Loa Xommits de la Muerte
